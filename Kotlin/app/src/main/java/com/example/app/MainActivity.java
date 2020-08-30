@@ -6,7 +6,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.example.app.entity.User;
 import com.example.app.widget.CodeView;
 import com.example.core.utils.CacheUtils;
 import com.example.core.utils.Utils;

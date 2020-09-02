@@ -1,6 +1,5 @@
 package com.example.lesson;
 
-import com.example.core.utils.Utils;
 import com.example.core.http.EntityCallback;
 import com.example.core.http.HttpClient;
 import com.example.lesson.entity.Lesson;
